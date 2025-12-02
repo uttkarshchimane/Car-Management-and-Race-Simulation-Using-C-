@@ -1,4 +1,4 @@
-# Car-Management-and-Race-Simulation-Using-C-
+# Car-Management-and-Race-Simulation-Using-C++
 “Object-oriented C++ implementation for managing cars, tracking performance metrics, and simulating competitive race environments.”
 
 🏎️ Car Management & Race Simulation (C++): 
